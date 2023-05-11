@@ -13,7 +13,7 @@ Compatible with AS v3.x.
 This plugin is a partial fix for this ticket:
   https://archivesspace.atlassian.net/browse/ANW-1445
 
-    NOTE: This is not intended to be a permanent not complete solution, but a stopgap until
+    NOTE: This is not intended to be a permanent nor complete solution, but a stopgap until
           that issue is resolved.
 
 In the staff interface a resource with an index note with several thousand index items bogs
